@@ -13,6 +13,16 @@ VisionLab is a web application that brings together different computer vision te
 - **Video Analysis:** Analyze sampled video frames using object detection.
 - **Algorithm Experiments:** Compare the outputs and processing times of different image-processing algorithms.
 
+## Screenshots
+
+### Main Dashboard
+
+![VisionLab Dashboard](assets/screenshots/dashboard.png)
+
+### Object Detection
+
+![VisionLab Object Detection](assets/screenshots/object-detection.png)
+
 ## Built With
 
 - Python
@@ -55,6 +65,10 @@ Open the local address displayed by Vite.
 
 ```text
 VisionLab/
+├── assets/
+│   └── screenshots/
+│       ├── dashboard.png
+│       └── object-detection.png
 ├── backend/
 │   └── main.py
 ├── frontend/
